@@ -4,11 +4,7 @@ A Java-based Bank Management System developed for managing basic banking operati
 
 ## Overview
 
-This project was created as a beginner-friendly banking management application using Java.
-
-The system provides functionalities for customer registration, account management, deposits, withdrawals, balance checking, money transfer, loan management, mini statements, and transaction history tracking through a graphical user interface.
-
-It serves as an introduction to Java application development, database connectivity, and banking management system concepts.
+This project was created as a beginner-friendly banking management application using Java. This system provides functionalities for customer registration, account management, deposits, withdrawals, balance checking, money transfer, loan management, mini statements, and transaction history tracking through a graphical user interface. It serves as an introduction to Java application development, database connectivity, and banking management system concepts.
 
 ## Features
 
@@ -22,7 +18,6 @@ It serves as an introduction to Java application development, database connectiv
 * PIN change functionality
 * Mini statement generation
 * Account search and management
-* Beginner-friendly Java project structure
 
 ## Technologies Used
 
@@ -62,13 +57,6 @@ Bank-Management-System/
 └── README.md
 ```
 
-## How to Run the Project
-
-1. Clone the repository.
-2. Open the project folder in your preferred Java IDE.
-3. Configure the MySQL database connection.
-4. Compile and run the project.
-
 ## Learning Purpose
 
 This repository was created for learning purposes to understand:
@@ -76,8 +64,6 @@ This repository was created for learning purposes to understand:
 * Java application development
 * Java Swing GUI development
 * JDBC database connectivity
-* Banking management system logic
-* Transaction and account management concepts
 
 ## Author
 
